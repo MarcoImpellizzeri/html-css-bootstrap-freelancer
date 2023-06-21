@@ -1,9 +1,11 @@
 :root {
     --bs-primary: #1ABC9C;
     --bs-primary-rgb: 26, 188, 156;
+    --bs-secondary: #2C3E50;
+    --bs-secondary-rgb: 44, 62, 80;
 }
 
-
-
-
+ul {
+    margin: 0;
+}
 
