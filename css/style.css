@@ -20,6 +20,11 @@ section, footer {
     border-radius: 0;
 }
 
+.my-form:focus {
+    border-color: lightgray;
+    box-shadow: none;
+}
+
 .avatar-img {
     width: 200px;
     margin-bottom: 20px;
@@ -42,4 +47,8 @@ section, footer {
 
 .line-wh {
     border: 2px solid white;
+}
+
+.my-padding {
+    padding: 1rem 0.75rem;
 }
