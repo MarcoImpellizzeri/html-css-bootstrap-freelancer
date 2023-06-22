@@ -5,6 +5,41 @@
     --bs-secondary-rgb: 44, 62, 80;
 }
 
+section, footer {
+    padding: 60px 0;
+}
+
 .bg-blue-scuro {
     background-color: #3A546D;
+}
+
+.border-type {
+    border-top: 0;
+    border-left: 0;
+    border-right: 0;
+    border-radius: 0;
+}
+
+.avatar-img {
+    width: 200px;
+    margin-bottom: 20px;
+}
+
+.star {
+    font-size: 1.3rem;
+    margin: 0 20px;
+}
+
+.line-star {
+    width: 80px;
+    height: 0;
+    border-radius: 20px;
+}
+
+.line-bl {
+    border: 2px solid black;
+}
+
+.line-wh {
+    border: 2px solid white;
 }
